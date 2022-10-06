@@ -16,5 +16,28 @@ Complete the following steps to make MPLS dob boarding website responsive.
 
     * Override the style rule that targets the 3 aside box elements and change the height value to auto
     * Override the style rule that targets the ```<main id=”flexcontainer”>``` element and change the background-size value to auto.
-    
-7. **Media Query for Break-point max-width 768px** - Media Query for Break-point max-width 768px
+
+7.  **Media Query for Break-point max-width 768px** - Make the following changes:
+
+   * Override the style rule that targets the ```<main id=”flexcontainer”>``` element and provide the background-image with a new relative file path to the “dog_bg_768.jpg” image.
+   * Change the background-size value to cover for ```<main id="flexcontainer">```
+   * Override the style rule that targets the 3 aside box elements and make the following changes:
+      * Change the background-color value to #000000cf
+      * Change the background-position value to center;
+      * Change the color of the text to white.
+Override the style rule that targets the ```<button id=”location_button”>``` and change the display value to block.
+8.  Triggering animation using pseudo class of hover: Create a pseudo class for the style rule that targets the 3 aside box elements and make the following changes
+
+    * Add a background-color of # #ff4500bd;
+    * Add a height of 325px
+    * Change the color of the text to white.
+9.  Implement the transition property – Add the declaration “transition: all .2s ease-in-out;” to the element that controls the three aside box elements
+
+10.  Validate HTML and CSS code and fix all errors and warnings related to homepage.
+
+11.  Remove all borders and visual inspect site in browser
+
+12.  Commit your work the repository provided to you by the instructor
+
+## Submission
+Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted. Submission video instructions [here](https://instructorc.github.io/site/slides/presentation/video/github_upload.mp4) 
