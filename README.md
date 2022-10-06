@@ -1,7 +1,7 @@
 # Lab 4 Implementing Responsive Design
 Complete the following steps to make MPLS dob boarding website responsive.
 
-1.  Download and unzip the “lab4” project folder
+1.  Download the files from this repository into a folder titled  “lab4”.
 
 2.  Open the project folder in your text editor and comment your name at the top the home.html page.
 
