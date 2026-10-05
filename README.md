@@ -40,4 +40,4 @@ Override the style rule that targets the ```<button id=”location_button”>```
 12.  Commit your work the repository provided to you by the instructor
 
 ## Submission
-Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Sakai, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Sakai that your assignment has been submitted. Submission video instructions [here](https://instructorc.github.io/site/slides/presentation/video/github_upload.mp4) 
+Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Brightspace, you will need to submit the link to your repository by the due date and time listed in the write-up. Make sure you receive confirmation from Brightspace that your assignment has been submitted. Submission video instructions [here](https://instructorc.github.io/site/slides/presentation/video/github_upload.mp4) 
